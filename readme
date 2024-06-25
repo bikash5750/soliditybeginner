@@ -1,0 +1,47 @@
+Solidity Smart Contract Examples
+This repository contains various Solidity smart contract examples, each demonstrating different features and concepts of the Solidity programming language.
+
+Table of Contents
+Introduction
+Smart Contracts
+conditional.sol
+const.sol
+datatype.sol
+firstSC.sol
+function.sol
+loop.sol
+modifier.sol
+statevariable.sol
+visibility.sol
+Getting Started
+License
+Introduction
+This repository provides a collection of Solidity smart contract examples to help developers understand and utilize various features of the language. Each .sol file demonstrates a different concept or functionality within Solidity, making it easier to learn and reference.
+
+Smart Contracts
+conditional.sol
+This contract demonstrates the use of conditional statements (if, else if, else) in Solidity.
+
+const.sol
+This contract showcases the use of constants in Solidity, including how to declare and use constant state variables.
+
+datatype.sol
+This contract provides examples of different data types available in Solidity, including integers, booleans, strings, and more.
+
+firstSC.sol
+This is a simple "Hello, World!" contract to get you started with Solidity and smart contract development.
+
+function.sol
+This contract demonstrates the creation and use of functions in Solidity, including visibility, modifiers, and return values.
+
+loop.sol
+This contract illustrates the use of loops (for, while, do-while) in Solidity.
+
+modifier.sol
+This contract explains how to use function modifiers in Solidity to change the behavior of functions.
+
+statevariable.sol
+This contract covers the use of state variables in Solidity, including how to declare, read, and update them.
+
+visibility.sol
+This contract demonstrates the different visibility specifiers available in Solidity (public, private, internal, external) and how they affect the accessibility of functions and state variables.
